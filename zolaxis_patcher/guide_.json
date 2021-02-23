@@ -1,0 +1,35 @@
+{
+  "pc": "com.bageurstudio.zolaxis_patcher_walkthrough",
+  "kang_zayvius": [      
+     {
+      "id": "1",
+      "tittle": "Cara Download",
+      "link_html": "https://raw.githubusercontent.com/kangzay/hs/main/zolaxis_patcher/a.html",
+      "images": "https://imag.malavida.com/mvimgbig/download-fs/zolaxis-patcher-28861-0.jpg"
+     },
+     {
+      "id": "2",
+      "tittle": "Cara install",
+      "link_html": "https://raw.githubusercontent.com/kangzay/hs/main/zolaxis_patcher/b.html",
+      "images": "https://imag.malavida.com/mvimgbig/download-fs/zolaxis-patcher-28861-0.jpg"
+     },
+    {
+      "id": "3",
+      "tittle": "Cara penggunaannya",
+      "link_html": "https://raw.githubusercontent.com/kangzay/hs/main/zolaxis_patcher/b.html",
+      "images": "https://imag.malavida.com/mvimgbig/download-fs/zolaxis-patcher-28861-0.jpg"
+     },
+    {
+      "id": "4",
+      "tittle": "Cara Menggunakan Part 2",
+      "link_html": "https://raw.githubusercontent.com/kangzay/hs/main/zolaxis_patcher/c.html",
+      "images": "https://imag.malavida.com/mvimgbig/download-fs/zolaxis-patcher-28861-0.jpg"
+     },
+     {
+      "id": "5",
+      "tittle": "Cara Menggunakan Part 3",
+      "link_html": "https://raw.githubusercontent.com/kangzay/hs/main/zolaxis_patcher/d.html",
+      "images": "https://imag.malavida.com/mvimgbig/download-fs/zolaxis-patcher-28861-0.jpg"
+     }
+  ]
+}
