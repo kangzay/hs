@@ -1,0 +1,47 @@
+{
+  "pc": "com.bageurstudio.JedagJedug",
+  "kang_zayvius": [      
+     {
+      "id": "1",
+      "tittle": "Potong Video",
+      "link_html": "https://raw.githubusercontent.com/myghithub/caapcut/main/Potong.html",
+      "images": "https://i.ytimg.com/vi/sN-v69JxPvU/hqdefault.jpg"
+     },
+    {
+      "id": "2",
+      "tittle": "Edit Jadi Blur",
+      "link_html": "https://raw.githubusercontent.com/myghithub/caapcut/main/Blur.html",
+      "images": "https://1.bp.blogspot.com/-cbPc2r2HKsc/YCuSiaCsCOI/AAAAAAAAAgk/_hacPPo3MR4f0ilMa-yp3fHcZYTI1Fb7QCLcBGAsYHQ/s0/cap.jpg"
+     },
+    {
+      "id": "3",
+      "tittle": "Edit Slow Motion",
+      "link_html": "https://raw.githubusercontent.com/myghithub/caapcut/main/Slow.html",
+      "images": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxTTFanyggA-eO-z3mwNo63QrpBBaFejlJhg&usqp=CAU"
+     },
+    {
+      "id": "4",
+      "tittle": "Edit Transisi",
+      "link_html": "https://raw.githubusercontent.com/myghithub/caapcut/main/Tran.html",
+      "images": "https://i.ytimg.com/vi/pX_GNu6nbFM/sddefault.jpg"
+     },
+    {
+      "id": "5",
+      "tittle": "Edit Tulisan Bergerak",
+      "link_html": "https://raw.githubusercontent.com/myghithub/caapcut/main/Tulisan%20Gerak.html",
+      "images": "https://i.ytimg.com/vi/BEdaWuiwAmM/hqdefault.jpg"
+     },
+    {
+      "id": "6",
+      "tittle": "Edit Jedag Jedug",
+      "link_html": "https://raw.githubusercontent.com/myghithub/caapcut/main/Jedag.html",
+      "images": "https://i.ytimg.com/vi/X48qEqKkr7o/maxresdefault.jpg"
+     },
+    {
+      "id": "7",
+      "tittle": "Edit Video Di Cap Cut",
+      "link_html": "https://raw.githubusercontent.com/myghithub/caapcut/main/Edit.html",
+      "images": "https://pebiboni.blog.institutpendidikan.ac.id/wp-content/uploads/sites/6/2020/10/Cara-Menggunakan-Capcut-Untuk-Editing-Video.jpg"
+     }
+  ]
+}
