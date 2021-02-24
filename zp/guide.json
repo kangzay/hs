@@ -1,0 +1,29 @@
+{
+  "pc": "com.bageurstudio.guidezoidpaywallet",
+  "kang_zayvius": [      
+     {
+      "id": "1",
+      "tittle": "Guide 1",
+      "link_html": "https://raw.githubusercontent.com/kangzay/hs/main/zp/a.html",
+      "images": "https://pbs.twimg.com/profile_images/1093058541202665473/CoRnMwxS_400x400.jpg"
+     },
+     {
+      "id": "2",
+      "tittle": "Guide 2",
+      "link_html": "https://raw.githubusercontent.com/kangzay/hs/main/zp/b.html",
+      "images": "https://pbs.twimg.com/profile_images/1093058541202665473/CoRnMwxS_400x400.jpg"
+     },
+    {
+      "id": "3",
+      "tittle": "Guide 3",
+      "link_html": "https://raw.githubusercontent.com/kangzay/hs/main/zp/c.html",
+      "images": "https://pbs.twimg.com/profile_images/1093058541202665473/CoRnMwxS_400x400.jpg"
+     },
+    {
+      "id": "4",
+      "tittle": "Guide 4",
+      "link_html": "https://raw.githubusercontent.com/kangzay/hs/main/zp/d.html",
+      "images": "https://pbs.twimg.com/profile_images/1093058541202665473/CoRnMwxS_400x400.jpg"
+     }
+  ]
+}
