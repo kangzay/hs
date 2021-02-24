@@ -1,0 +1,29 @@
+{
+  "pc": "com.bageurstudio.vitopenghasiluang",
+  "kang_zayvius": [      
+     {
+      "id": "1",
+      "tittle": "Cara Daftar",
+      "link_html": "https://raw.githubusercontent.com/kangzay/hs/main/vitoo/a.html",
+      "images": "https://play-lh.googleusercontent.com/iUjwhF_l6qtrNzZNVLe0Awi-ZtGS7-Ph9QTMlu0KNL0klgDxPB2bO9W9mEB0chIRet9c=rw-w250"
+     },
+     {
+      "id": "2",
+      "tittle": "Cara Menggunakan",
+      "link_html": "https://raw.githubusercontent.com/kangzay/hs/main/vitoo/b.html",
+      "images": "https://play-lh.googleusercontent.com/iUjwhF_l6qtrNzZNVLe0Awi-ZtGS7-Ph9QTMlu0KNL0klgDxPB2bO9W9mEB0chIRet9c=rw-w250"
+     },
+    {
+      "id": "3",
+      "tittle": "Cara Download",
+      "link_html": "https://raw.githubusercontent.com/kangzay/hs/main/vitoo/c.html",
+      "images": "https://play-lh.googleusercontent.com/iUjwhF_l6qtrNzZNVLe0Awi-ZtGS7-Ph9QTMlu0KNL0klgDxPB2bO9W9mEB0chIRet9c=rw-w250"
+     },
+    {
+      "id": "4",
+      "tittle": "Apakah scam atau tidak?",
+      "link_html": "https://raw.githubusercontent.com/kangzay/hs/main/vitoo/d.html",
+      "images": "https://play-lh.googleusercontent.com/iUjwhF_l6qtrNzZNVLe0Awi-ZtGS7-Ph9QTMlu0KNL0klgDxPB2bO9W9mEB0chIRet9c=rw-w250"
+     }
+  ]
+}
